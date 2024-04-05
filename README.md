@@ -10,5 +10,8 @@
 ### NodeJS
 1. [Parallelism and worker threads](https://deepsource.com/blog/nodejs-worker-threads)
 
+### Web
+1. [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
 ### Tools
 1. [Bypass CORS Chrome extension](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
