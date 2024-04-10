@@ -18,5 +18,8 @@
    2.2. [Why TCP uses 3way hand shake](https://networkengineering.stackexchange.com/a/24072)
 3. [SSL/TLS](https://www.youtube.com/watch?v=Rp3iZUvXWlM&ab_channel=WhiteHatCalPoly)
 
+### Leadership
+1. [Ideation](https://read.perspectiveship.com/p/on-generating-ideas)
+
 ### Tools
 1. [Bypass CORS Chrome extension](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
