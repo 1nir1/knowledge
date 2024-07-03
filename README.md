@@ -83,3 +83,4 @@
 2. [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership?ac=1&from_search=true&qid=LnkbcTTX2S&rank=1)
 3. [Mindset](https://www.goodreads.com/en/book/show/40745)
 4. [Turn the ship around](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
+5. [Netflix Culture - No rules rules](https://www.goodreads.com/book/show/49099937-no-rules-rules)
