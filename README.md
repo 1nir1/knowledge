@@ -1,9 +1,9 @@
 # Knowledge
 
-General trick - Medium and HBR enforce a limited number of reads for the free account. If you’re out of free reads, you can always open a new incognito session and paste the link there. You’ll automatically get some more free reads.
+> **_General trick_**  - Medium and HBR enforce a limited number of reads for the free account. If you’re out of free reads, you can always open a new incognito session and paste the link there. You’ll automatically get some more free reads.
 
 
-General trick (2) - Tired of reading? Use text-to-speech extension to read along with you. You can also easily control the speed (words per minute) and voice. My personal favorite is: https://chrome.google.com/webstore/detail/natural-reader-text-to-sp/kohfgcgbkjodfcfkcackpagifgbcmimk?hl=en
+> **_General trick (2)_**  -  Tired of reading? Use text-to-speech extension to read along with you. You can also easily control the speed (words per minute) and voice. My personal favorite is: https://chrome.google.com/webstore/detail/natural-reader-text-to-sp/kohfgcgbkjodfcfkcackpagifgbcmimk?hl=en
 (Try the free voice of Google UK English Female en-GB)
 
 ### System Design
