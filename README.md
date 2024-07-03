@@ -17,9 +17,47 @@
    2.1. [TCP](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/transmission-control-protocol--tcp)\
    2.2. [Why TCP uses 3way hand shake](https://networkengineering.stackexchange.com/a/24072)
 3. [SSL/TLS](https://www.youtube.com/watch?v=Rp3iZUvXWlM&ab_channel=WhiteHatCalPoly)
+#### react
+1. [usehooks.com](https://usehooks.com/)
 
 ### Leadership
+#### links
 1. [Ideation](https://read.perspectiveship.com/p/on-generating-ideas)
+2. [Geekonomy episode with Gal Z.](https://geekonomy.net/2020/11/15/geekonomy376/)
+3. [Teamistry - The brilliant success of Shackletons failure](https://www.atlassian.com/blog/podcast/teamistry/season/season-1/the-brilliant-success-of-shackletons-failure)
+4. [Stackoverflow blog post about engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
+   </br> 4.1 [Inner link #1](https://leaddev.com/self-care-burnout/learning-love-meta-productivity)
+   </br> 4.2 [Inner link #2](https://medium.com/swlh/do-engineering-managers-need-to-write-code-d89903d68e8d)
+   </br> 4.3 [Inner link #3](https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager)
+5. [How to approach feedback giving](https://drive.google.com/file/d/1jQHUu7nZIlSoCuFYkQHZWjhI2S2GeK-a/view?usp=sharing)
+6. [How to Ask Whether an Employee Is Happy at Work - (Great article about communication and true listening)](https://hbr.org/2022/04/how-to-ask-whether-an-employee-is-happy-at-work)
+7. [Why I Start All My 1:1s with this Question - (A nice piece about what 101-s)](https://maryamtaheri.medium.com/why-i-start-all-my-1-1s-with-this-question-8d26781c4683)
+8. [How to Become a Better Listener - (Great article about listening skills)](https://hbr.org/2021/12/how-to-become-a-better-listener)
+9. [The Magic of Setting Expectations - (a little over the top in my opinion - but might be useful sometimes)](https://betterprogramming.pub/the-magic-of-setting-expectations-978ba7316df8)
+10. [The Cone Model for Teams' Support Network - (How to help the team help themselves)](https://betterprogramming.pub/the-cone-model-for-teams-support-network-9b87659c8008)
+11. [Having Career Conversations](http://www.softwareonthebrain.com/2021/12/having-career-growth-conversations.html)
+12. [5 things you'll never learn from management books](https://entrepreneurshandbook.co/5-things-you-will-never-learn-from-management-books-66d5ce3db4d9)
+13. [Velocity metrics](https://software.rajivprab.com/2023/07/01/moneyball-for-software-teams/?utm_source=tldrnewsletter)
+14. [Feedback importance](https://hbr.org/2023/07/overcoming-your-fear-of-giving-tough-feedback?utm_source=substack&utm_medium=email)
+15. [How to build trust best practices](https://jacobian.org/2023/nov/16/how-to-build-trust/)
+16. [Super specific feedback](https://newsletter.weskao.com/p/super-specific-feedback)
+17. [Words of appreciation](https://marcusblankenship.substack.com/p/sometimes-a-single-phrase-can-change?utm_source=post-email-title&publication_id=1972941&post_id=142824735&utm_campaign=email-post-title&isFreemail=true&r=5qbxj&triedRedirect=true&utm_medium=email)
+18. [High Agency: what is it, why it is important, and how to cultivate it](https://www.linkedin.com/pulse/high-agency-its-importance-how-cultivate-shreyas-doshi?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
+19. [Building a feedback rich culture](https://www.edbatista.com/2013/12/new-post-at-hbr-building-a-feedback-rich-culture.html)
+#### concepts
+1. “Great processes have automatic triggers, clear actions, and effective review.”
+2. When I give you a mission, I want to be sure that "you've got this". - If I give it to X he got this if he can't get that done he'll tell me but he won't drop it
+3. Build a team bond -
+   </br> 3.1 Have a lingo/dialect of your own “Magical day”, “X of the morning”
+   </br> 3.2 Lunch together
+   </br> 3.3 Do fun activities
+
 
 ### Tools
 1. [Bypass CORS Chrome extension](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
+
+### Books
+1. [Radical Candor](https://www.goodreads.com/en/book/show/29939161-radical-candor)
+2. [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership?ac=1&from_search=true&qid=LnkbcTTX2S&rank=1)
+3. [Mindset](https://www.goodreads.com/en/book/show/40745)
+4. [Turn the ship around](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
