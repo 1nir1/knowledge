@@ -1,5 +1,11 @@
 # Knowledge
 
+General trick - Medium and HBR enforce a limited number of reads for the free account. If you’re out of free reads, you can always open a new incognito session and paste the link there. You’ll automatically get some more free reads.
+
+
+General trick (2) - Tired of reading? Use text-to-speech extension to read along with you. You can also easily control the speed (words per minute) and voice. My personal favorite is: https://chrome.google.com/webstore/detail/natural-reader-text-to-sp/kohfgcgbkjodfcfkcackpagifgbcmimk?hl=en
+(Try the free voice of Google UK English Female en-GB)
+
 ### System Design
 #### links
 1. [System Design primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md?source=post_page-----ba118f48bdfc--------------------------------)
@@ -16,6 +22,9 @@
 
 ### NodeJS
 1. [Parallelism and worker threads](https://deepsource.com/blog/nodejs-worker-threads)
+
+### DevOps
+1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
 
 ### Web
 1. [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
