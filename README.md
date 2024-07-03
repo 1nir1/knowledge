@@ -17,6 +17,9 @@
 ### NodeJS
 1. [Parallelism and worker threads](https://deepsource.com/blog/nodejs-worker-threads)
 
+### DotNet
+
+
 ### Web
 1. [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 2. TCP -\
@@ -24,6 +27,12 @@
    2.2. [Why TCP uses 3way hand shake](https://networkengineering.stackexchange.com/a/24072)
 3. [SSL/TLS](https://www.youtube.com/watch?v=Rp3iZUvXWlM&ab_channel=WhiteHatCalPoly)
 4. [OAuth](https://www.youtube.com/watch?v=996OiexHze0&ab_channel=OktaDev)
+5. [What happens when you type an URL in the browser an press enter](https://medium.com/@maneesa/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
+6. [Comprehensive guide when to use em vs rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984#:~:text=Use%20rem%20units%20for%20sizing,layout%20widths%20-%20use%20%25%20instead.)
+7. [Airbnb styling guide](https://github.com/airbnb/javascript)
+8. [Pruning git branches](https://alexwlchan.net/2017/11/pruning-git-branches/)
+9. [Oh shit git - cheatsheet for git](https://ohshitgit.com/?s=31#magic-time-machine)
+10. [Different merge types in git](https://lukemerrett.com/different-merge-types-in-git/)
 #### react
 1. [usehooks.com](https://usehooks.com/)
 
