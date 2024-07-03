@@ -10,6 +10,9 @@
 1. "A service is scalable if it results in increased performance in a manner proportional to resources added"
 2. Craiglist static caching html pros (low cost because disk space is relatively cheap, performance because db only "spits" up bits (static pages)) and cons (every change is costly (need to configure ALL static pages))
 
+### Algorithms
+1. [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
 ### NodeJS
 1. [Parallelism and worker threads](https://deepsource.com/blog/nodejs-worker-threads)
 
