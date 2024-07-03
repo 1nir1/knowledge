@@ -17,6 +17,7 @@
    2.1. [TCP](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/transmission-control-protocol--tcp)\
    2.2. [Why TCP uses 3way hand shake](https://networkengineering.stackexchange.com/a/24072)
 3. [SSL/TLS](https://www.youtube.com/watch?v=Rp3iZUvXWlM&ab_channel=WhiteHatCalPoly)
+4. [OAuth](https://www.youtube.com/watch?v=996OiexHze0&ab_channel=OktaDev)
 #### react
 1. [usehooks.com](https://usehooks.com/)
 
