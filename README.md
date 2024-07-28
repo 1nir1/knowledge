@@ -66,6 +66,7 @@
 17. [Words of appreciation](https://marcusblankenship.substack.com/p/sometimes-a-single-phrase-can-change?utm_source=post-email-title&publication_id=1972941&post_id=142824735&utm_campaign=email-post-title&isFreemail=true&r=5qbxj&triedRedirect=true&utm_medium=email)
 18. [High Agency: what is it, why it is important, and how to cultivate it](https://www.linkedin.com/pulse/high-agency-its-importance-how-cultivate-shreyas-doshi?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 19. [Building a feedback rich culture](https://www.edbatista.com/2013/12/new-post-at-hbr-building-a-feedback-rich-culture.html)
+20. [TRM (𝘁𝗮𝘀𝗸-𝗿𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝗺𝗮𝘁𝘂𝗿𝗶𝘁𝘆) levels and what level of guidance to provide on each level](https://substack.com/@refactoring/note/c-63277431)
 #### concepts
 1. “Great processes have automatic triggers, clear actions, and effective review.”
 2. When I give you a mission, I want to be sure that "you've got this". - If I give it to X he got this if he can't get that done he'll tell me but he won't drop it
