@@ -67,6 +67,8 @@
 18. [High Agency: what is it, why it is important, and how to cultivate it](https://www.linkedin.com/pulse/high-agency-its-importance-how-cultivate-shreyas-doshi?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 19. [Building a feedback rich culture](https://www.edbatista.com/2013/12/new-post-at-hbr-building-a-feedback-rich-culture.html)
 20. [TRM (𝘁𝗮𝘀𝗸-𝗿𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝗺𝗮𝘁𝘂𝗿𝗶𝘁𝘆) levels and what level of guidance to provide on each level](https://substack.com/@refactoring/note/c-63277431)
+21. [Managing underperformers - specifically useful part about expectation setting](https://jackdanger.com/managing-underperformers/)
+22. [Why should you dissolve instead of resolve](https://x.com/Kpaxs/status/1817762223751643164?t=RqeieRKKnt8SEr9QXhTfnw&s=31)
 #### concepts
 1. “Great processes have automatic triggers, clear actions, and effective review.”
 2. When I give you a mission, I want to be sure that "you've got this". - If I give it to X he got this if he can't get that done he'll tell me but he won't drop it
