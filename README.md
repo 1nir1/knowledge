@@ -79,6 +79,9 @@
    </br> 3.3 Do fun activities
 
 
+### Interviewing
+1. [38 smart questions to ask in a job interview](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview)
+
 ### Tools
 1. [Bypass CORS Chrome extension](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
 
