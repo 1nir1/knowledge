@@ -9,10 +9,11 @@
 ### System Design
 #### links
 1. [System Design primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md?source=post_page-----ba118f48bdfc--------------------------------)
-2. [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
-3. [Resiliency in Distributed Systems](https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/?utm_source=tldrnewsletter)
-4. [CQRS](https://martinfowler.com/bliki/CQRS.html)
-5. [Domain Driven Design by Udi Dahan](https://www.youtube.com/watch?v=-iuMjjKQnhg&ab_channel=Domain-DrivenDesignEurope)
+2. [System Design course](https://github.com/karanpratapsingh/system-design)
+3. [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
+4. [Resiliency in Distributed Systems](https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/?utm_source=tldrnewsletter)
+5. [CQRS](https://martinfowler.com/bliki/CQRS.html)
+6. [Domain Driven Design by Udi Dahan](https://www.youtube.com/watch?v=-iuMjjKQnhg&ab_channel=Domain-DrivenDesignEurope)
 #### concepts
 1. "A service is scalable if it results in increased performance in a manner proportional to resources added"
 2. Static HTML caching example - Craiglist - pros: low cost because disk space is relatively cheap, performance because db only "spits" up bits (static pages) and cons: every change is costly (need to configure ALL static pages)
