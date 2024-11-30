@@ -19,6 +19,10 @@
 1. "A service is scalable if it results in increased performance in a manner proportional to resources added"
 2. Static HTML caching example - Craiglist - pros: low cost because disk space is relatively cheap, performance because db only "spits" up bits (static pages) and cons: every change is costly (need to configure ALL static pages)
 
+### DB
+1. [Why NoSQL is better at "scaling out" than RDBMS?](https://stackoverflow.com/a/21539676) 
+> **_NOTE:_** Basically complicated documents in NoSql remove the need in JOIN (think how you would implement JOIN between shards)
+   
 ### Algorithms
 1. [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
