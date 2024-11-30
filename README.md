@@ -14,13 +14,14 @@ Good guideline resoure - [link](https://youtu.be/i7twT3x5yv8?si=hc-jdz8dB3_7vYR-
 3. Clarify non-functional requirements (probably most relevant are scale and performance but there are also: security, consistency, accuracy and more)
 4. Flow: API Design --> High level design diagram (retain a list of discussion points for later and avoid diving too deep ((db scaling, high concurrency, failure scenarios))) --> Deep dive (point out points of failure and figure out with the interviewer what to discuss about) --> Wrap up (summarize the design
 #### links
-1. [System Design primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md?source=post_page-----ba118f48bdfc--------------------------------)
-2. [System Design course](https://github.com/karanpratapsingh/system-design)
+1. [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
+2. [Jordan has no life course](https://www.youtube.com/@jordanhasnolife5163)
 3. [Gaurav Sen system design course](https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen)
-4. [Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
-5. [Resiliency in Distributed Systems](https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/?utm_source=tldrnewsletter)
-6. [CQRS](https://martinfowler.com/bliki/CQRS.html)
-7. [Domain Driven Design by Udi Dahan](https://www.youtube.com/watch?v=-iuMjjKQnhg&ab_channel=Domain-DrivenDesignEurope)
+4. [System Design primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md?source=post_page-----ba118f48bdfc--------------------------------)
+5. [System Design course](https://github.com/karanpratapsingh/system-design)
+6. [Resiliency in Distributed Systems](https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/?utm_source=tldrnewsletter)
+7. [CQRS](https://martinfowler.com/bliki/CQRS.html)
+8. [Domain Driven Design by Udi Dahan](https://www.youtube.com/watch?v=-iuMjjKQnhg&ab_channel=Domain-DrivenDesignEurope)
 #### concepts
 1. "A service is scalable if it results in increased performance in a manner proportional to resources added"
 2. Static HTML caching example - Craiglist - pros: low cost because disk space is relatively cheap, performance because db only "spits" up bits (static pages) and cons: every change is costly (need to configure ALL static pages)
