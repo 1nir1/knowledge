@@ -7,6 +7,12 @@
 (Try the free voice of Google UK English Female en-GB)
 
 ### System Design
+### guidelines
+Good guideline resoure - [link](https://youtu.be/i7twT3x5yv8?si=hc-jdz8dB3_7vYR-)
+1. Clarify: Why are we building the system? Who are the users? What features do we need to build?
+2. Focus on the top few features to build and agree on the priority order
+3. Clarify non-functional requirements (probably most relevant are scale and performance but there are also: security, consistency, accuracy and more)
+4. Flow: API Design --> High level design diagram (retain a list of discussion points for later and avoid diving too deep ((db scaling, high concurrency, failure scenarios))) --> Deep dive (point out points of failure and figure out with the interviewer what to discuss about) --> Wrap up (summarize the design
 #### links
 1. [System Design primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md?source=post_page-----ba118f48bdfc--------------------------------)
 2. [System Design course](https://github.com/karanpratapsingh/system-design)
