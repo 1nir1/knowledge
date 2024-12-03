@@ -32,6 +32,7 @@ Good guideline resoure - [link](https://youtu.be/i7twT3x5yv8?si=hc-jdz8dB3_7vYR-
 > **_NOTE:_** Basically complicated documents in NoSql remove the need in JOIN (think how you would implement JOIN between shards)
 2. [The difference between ACID and BASE database](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/)
 3. [Normal Forms](https://www.youtube.com/watch?app=desktop&v=GFQaEYEc8_8&ab_channel=Decomplexify)
+4. [Difference between pessimistic approach and optimistic approach in dbms](https://www.geeksforgeeks.org/difference-between-pessimistic-approach-and-optimistic-approach-in-dbms/)
    
 ### Algorithms
 1. [coding-interview-university](https://github.com/jwasham/coding-interview-university)
