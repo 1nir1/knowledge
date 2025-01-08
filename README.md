@@ -60,6 +60,11 @@ Good guideline resoure - [link](https://youtu.be/i7twT3x5yv8?si=hc-jdz8dB3_7vYR-
 #### react
 1. [usehooks.com](https://usehooks.com/)
 
+### Soft Skills
+#### links
+1. [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY&ab_channel=TEDxTalks)
+2. [Public speaking tips](https://x.com/SahilBloom/status/1520391055878901761?t=fpSPbHK_AHAfgPClupXPGw&s=19)
+
 ### Leadership
 #### links
 1. [Ideation](https://read.perspectiveship.com/p/on-generating-ideas)
