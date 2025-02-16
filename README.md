@@ -27,6 +27,16 @@ Good guideline resoure - [link](https://youtu.be/i7twT3x5yv8?si=hc-jdz8dB3_7vYR-
 #### concepts
 1. "A service is scalable if it results in increased performance in a manner proportional to resources added"
 2. Static HTML caching example - Craiglist - pros: low cost because disk space is relatively cheap, performance because db only "spits" up bits (static pages) and cons: every change is costly (need to configure ALL static pages)
+3. **Metrics**  </br>
+Quantitative measurements of system behaviour </br>
+Key focus: Performance indicators like latency, throughput, resource usage </br>
+**Logs** </br>
+Time stamped records of discrete events and state changes </br>
+Key focus: Debugging, audit trails, compliance </br>
+**Traces** </br>
+End-to-end request flow through system components <br>
+Key focus: Performance bottlenecks, error propagation
+
 
 ### DB
 1. [Why NoSQL is better at "scaling out" than RDBMS?](https://stackoverflow.com/a/21539676) 
