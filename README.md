@@ -44,6 +44,7 @@ Key focus: Performance bottlenecks, error propagation
 2. [The difference between ACID and BASE database](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/)
 3. [Normal Forms](https://www.youtube.com/watch?app=desktop&v=GFQaEYEc8_8&ab_channel=Decomplexify)
 4. [Difference between pessimistic approach and optimistic approach in dbms](https://www.geeksforgeeks.org/difference-between-pessimistic-approach-and-optimistic-approach-in-dbms/)
+5. [BTree VS Hash index](https://stackoverflow.com/a/7306456)
    
 ### Algorithms
 1. [coding-interview-university](https://github.com/jwasham/coding-interview-university)
