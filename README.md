@@ -53,6 +53,9 @@ Key focus: Performance bottlenecks, error propagation
 ### NodeJS
 1. [Parallelism and worker threads](https://deepsource.com/blog/nodejs-worker-threads)
 2. [Dependency Injection with TypeDI](https://blog.logrocket.com/dependency-injection-node-js-typedi/)
+3. [How to use the NodeJS REPL](https://nodejs.org/en/learn/command-line/how-to-use-the-nodejs-repl)
+4. [Awesome-NodeJS git repository with tons of content](https://github.com/sindresorhus/awesome-nodejs?tab=readme-ov-file)
+5. [Node best practices](https://github.com/goldbergyoni/nodebestpractices?tab=readme-ov-file#translations)
 
 ### DevOps
 1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
