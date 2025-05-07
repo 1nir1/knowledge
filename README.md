@@ -109,6 +109,7 @@ Key focus: Performance bottlenecks, error propagation
 21. [Managing underperformers - specifically useful part about expectation setting](https://jackdanger.com/managing-underperformers/)
 22. [Why should you dissolve instead of resolve](https://x.com/Kpaxs/status/1817762223751643164?t=RqeieRKKnt8SEr9QXhTfnw&s=31)
 23. [Managing up](https://www.reforge.com/blog/mastering-managing-up)
+24. [Feedback coach](https://chatgpt.com/g/g-67e01ddcb6588191bc9046197cc75e85-feedbackcoach)
 #### concepts
 1. “Great processes have automatic triggers, clear actions, and effective review.”
 2. When I give you a mission, I want to be sure that "you've got this". - If I give it to X he got this if he can't get that done he'll tell me but he won't drop it
@@ -120,6 +121,8 @@ Key focus: Performance bottlenecks, error propagation
 
 ### Interviewing
 1. [38 smart questions to ask in a job interview](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview)
+2. [Reversim - Let's talk about your salary / Iftach Bar](https://www.youtube.com/watch?v=pzq37L4UBUU&ab_channel=Reversim)
+3. [My ten rules for negotiating a job offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
 ### Tools
 1. [Bypass CORS Chrome extension](https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
