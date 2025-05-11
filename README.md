@@ -57,6 +57,7 @@ Key focus: Performance bottlenecks, error propagation
 4. [How to use the NodeJS REPL](https://nodejs.org/en/learn/command-line/how-to-use-the-nodejs-repl)
 5. [Awesome-NodeJS git repository with tons of content](https://github.com/sindresorhus/awesome-nodejs?tab=readme-ov-file)
 6. [Node best practices](https://github.com/goldbergyoni/nodebestpractices?tab=readme-ov-file#translations)
+7. [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1s&ab_channel=JSConf)
 
 ### DevOps
 1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
