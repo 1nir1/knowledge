@@ -58,6 +58,7 @@ Key focus: Performance bottlenecks, error propagation
 5. [Awesome-NodeJS git repository with tons of content](https://github.com/sindresorhus/awesome-nodejs?tab=readme-ov-file)
 6. [Node best practices](https://github.com/goldbergyoni/nodebestpractices?tab=readme-ov-file#translations)
 7. [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1s&ab_channel=JSConf)
+8. [Node.js project structure with example git repository](https://www.softwareontheroad.com/ideal-nodejs-project-structure/?utm_source=github&utm_medium=readme)
 
 ### DevOps
 1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
