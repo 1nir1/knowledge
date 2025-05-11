@@ -60,6 +60,9 @@ Key focus: Performance bottlenecks, error propagation
 7. [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1s&ab_channel=JSConf)
 8. [Node.js project structure with example git repository](https://www.softwareontheroad.com/ideal-nodejs-project-structure/?utm_source=github&utm_medium=readme)
 
+### Typescript
+1. [Typescript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)
+
 ### DevOps
 1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
 
