@@ -7,7 +7,7 @@
 (Try the free voice of Google UK English Female en-GB)
 
 ### System Design
-### guidelines
+#### guidelines
 Good guideline resoure - [link](https://youtu.be/i7twT3x5yv8?si=hc-jdz8dB3_7vYR-)
 1. Clarify: Why are we building the system? Who are the users? What features do we need to build?
 2. Focus on the top few features to build and agree on the priority order
@@ -38,6 +38,9 @@ Key focus: Debugging, audit trails, compliance </br>
 End-to-end request flow through system components <br>
 Key focus: Performance bottlenecks, error propagation
 
+### Code
+1. [The symptoms of ugly code by Uncle Bob](https://www.youtube.com/watch?v=vsQya8Ai1jw&ab_channel=DevToolsMadeSimple)
+2. [Clean Code book summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
 ### DB
 1. [Why NoSQL is better at "scaling out" than RDBMS?](https://stackoverflow.com/a/21539676) 
