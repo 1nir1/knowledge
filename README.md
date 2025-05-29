@@ -66,6 +66,9 @@ Key focus: Performance bottlenecks, error propagation
 ### Typescript
 1. [Typescript handbook](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)
 
+### C#
+1. [Floating point](https://csharpindepth.com/articles/FloatingPoint)
+
 ### DevOps
 1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
 
