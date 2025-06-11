@@ -92,6 +92,7 @@ Key focus: Performance bottlenecks, error propagation
 #### links
 1. [How To Speak](https://www.youtube.com/watch?v=Unzc731iCUY&ab_channel=TEDxTalks)
 2. [Public speaking tips](https://x.com/SahilBloom/status/1520391055878901761?t=fpSPbHK_AHAfgPClupXPGw&s=19)
+3. [The Law of Leaky Abstractions - Joel Spolsky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 
 ### Leadership
 #### links
