@@ -126,7 +126,8 @@ Key focus: Performance bottlenecks, error propagation
 #### concepts
 1. “Great processes have automatic triggers, clear actions, and effective review.”
 2. When I give you a mission, I want to be sure that "you've got this". - If I give it to X he got this if he can't get that done he'll tell me but he won't drop it
-3. Build a team bond -
+3. A leader is there to help the team get something done. A friend is there to help you feel good
+4. Build a team bond -
    </br> 3.1 Have a lingo/dialect of your own “Magical day”, “X of the morning”
    </br> 3.2 Lunch together
    </br> 3.3 Do fun activities
