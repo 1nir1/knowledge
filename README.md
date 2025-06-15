@@ -123,6 +123,7 @@ Key focus: Performance bottlenecks, error propagation
 22. [Why should you dissolve instead of resolve](https://x.com/Kpaxs/status/1817762223751643164?t=RqeieRKKnt8SEr9QXhTfnw&s=31)
 23. [Managing up](https://www.reforge.com/blog/mastering-managing-up)
 24. [Feedback coach](https://chatgpt.com/g/g-67e01ddcb6588191bc9046197cc75e85-feedbackcoach)
+25. [On leading friends](https://newsletter.canopy.is/p/on-leading-friends)
 #### concepts
 1. “Great processes have automatic triggers, clear actions, and effective review.”
 2. When I give you a mission, I want to be sure that "you've got this". - If I give it to X he got this if he can't get that done he'll tell me but he won't drop it
