@@ -68,6 +68,7 @@ Key focus: Performance bottlenecks, error propagation
 
 ### C#
 1. [Floating point](https://csharpindepth.com/articles/FloatingPoint)
+2. [Serilog deep dive](https://nblumhardt.com/2016/06/structured-logging-concepts-in-net-series-1/)
 
 ### DevOps
 1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
