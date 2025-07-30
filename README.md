@@ -47,6 +47,8 @@ Key focus: Performance bottlenecks, error propagation
 ### Code
 1. The symptoms of ugly code by Uncle Bob: https://www.youtube.com/watch?v=vsQya8Ai1jw&ab_channel=DevToolsMadeSimple
 2. Clean Code book summary: https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+3. Uncle Bob's response about Solid Relevance: https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html
+4. Dan North CUPID - "for joyful coding": https://dannorth.net/blog/cupid-for-joyful-coding/
 
 ### DB
 1. Why NoSQL is better at "scaling out" than RDBMS?: https://stackoverflow.com/a/21539676 
