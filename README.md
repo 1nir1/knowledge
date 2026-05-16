@@ -22,6 +22,7 @@ Good guideline resource: https://youtu.be/i7twT3x5yv8?si=hc-jdz8dB3_7vYR-
 7. Resiliency in Distributed Systems: https://blog.pragmaticengineer.com/resiliency-in-distributed-systems/?utm_source=tldrnewsletter
 8. CQRS: https://martinfowler.com/bliki/CQRS.html
 9. Kafka Deep Dive: https://www.youtube.com/watch?v=DU8o-OTeoCc&ab_channel=HelloInterview-SWEInterviewPreparation
+10. Non functional requirements guide: https://gazar.dev/system-design/non-functional-requirements-software-architecture/
 #### concepts
 1. "A service is scalable if it results in increased performance in a manner proportional to resources added"
 2. Static HTML caching example - Craiglist - pros: low cost because disk space is relatively cheap, performance because db only "spits" up bits: static pages and cons: every change is costly: need to configure ALL static pages
