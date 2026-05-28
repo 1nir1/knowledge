@@ -146,8 +146,9 @@ Key focus: Performance bottlenecks, error propagation
 
 ### Interviewing
 1. 38 smart questions to ask in a job interview: https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview
-2. Reversim - Let's talk about your salary / Iftach Bar: https://www.youtube.com/watch?v=pzq37L4UBUU&ab_channel=Reversim
+2. Reversim - Let's talk about your salary: / Iftach Bar: https://www.youtube.com/watch?v=pzq37L4UBUU&ab_channel=Reversim
 3. My ten rules for negotiating a job offer: https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
+4. Negotiation: https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp
 
 ### Tools
 1. Bypass CORS Chrome extension: https://chromewebstore.google.com/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf
