@@ -159,3 +159,4 @@ Key focus: Performance bottlenecks, error propagation
 3. Mindset: https://www.goodreads.com/en/book/show/40745
 4. Turn the ship around: https://www.goodreads.com/book/show/16158601-turn-the-ship-around
 5. Netflix Culture - No rules rules: https://www.goodreads.com/book/show/49099937-no-rules-rules
+6. Never split the difference: https://www.goodreads.com/book/show/123857637-never-split-the-difference
