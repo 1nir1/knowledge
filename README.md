@@ -134,6 +134,7 @@ Key focus: Performance bottlenecks, error propagation
 23. Managing up: https://www.reforge.com/blog/mastering-managing-up
 24. Feedback coach: https://chatgpt.com/g/g-67e01ddcb6588191bc9046197cc75e85-feedbackcoach
 25. On leading friends: https://newsletter.canopy.is/p/on-leading-friends
+26. Post AI Career Ladder: https://www.linkedin.com/pulse/what-happens-technical-career-ladders-ai-age-karn-j-singh-ollrc?utm_source=share&utm_medium=member_android&utm_campaign=share_via
 #### concepts
 1. “Great processes have automatic triggers, clear actions, and effective review.”
 2. When I give you a mission, I want to be sure that "you've got this". - If I give it to X he got this if he can't get that done he'll tell me but he won't drop it
